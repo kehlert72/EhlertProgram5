@@ -1,0 +1,10 @@
+C:\Users\Kaleb\source\repos\EhlertProgram5\EhlertProgram5\bin\Debug\EhlertProgram5.exe.config
+C:\Users\Kaleb\source\repos\EhlertProgram5\EhlertProgram5\bin\Debug\EhlertProgram5.exe
+C:\Users\Kaleb\source\repos\EhlertProgram5\EhlertProgram5\bin\Debug\EhlertProgram5.pdb
+C:\Users\Kaleb\source\repos\EhlertProgram5\EhlertProgram5\obj\Debug\EhlertProgram5.csprojResolveAssemblyReference.cache
+C:\Users\Kaleb\source\repos\EhlertProgram5\EhlertProgram5\obj\Debug\EhlertProgram5.PizzaOrderForm.resources
+C:\Users\Kaleb\source\repos\EhlertProgram5\EhlertProgram5\obj\Debug\EhlertProgram5.Properties.Resources.resources
+C:\Users\Kaleb\source\repos\EhlertProgram5\EhlertProgram5\obj\Debug\EhlertProgram5.csproj.GenerateResource.Cache
+C:\Users\Kaleb\source\repos\EhlertProgram5\EhlertProgram5\obj\Debug\EhlertProgram5.csproj.CoreCompileInputs.cache
+C:\Users\Kaleb\source\repos\EhlertProgram5\EhlertProgram5\obj\Debug\EhlertProgram5.exe
+C:\Users\Kaleb\source\repos\EhlertProgram5\EhlertProgram5\obj\Debug\EhlertProgram5.pdb
